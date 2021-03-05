@@ -1,0 +1,2569 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"id": "672",
+"owner": "Peter Bloxsome",
+"name": "Bridgetown Bulk Depot",
+"address": "25408 South West Hwy, Yornup 6256",
+"shire": "Yornup",
+"postalcode": "6256",
+"county": "WA",
+"phone": "",
+"min": "1",
+"max": "20",
+"type": "depot",
+"active": "1",
+"mobile": "0427 619 099",
+"depotid": "2"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.18352,
+-34.08448
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "574",
+"owner": "Philip & Robyn Jones",
+"name": "Bruce Rock Bulk Depot",
+"address": "395 Belka West Rd, Bruce Rock 6418",
+"shire": "Bruce Rock",
+"postalcode": "6418",
+"county": "WA",
+"min": "1",
+"max": "20",
+"type": "depot",
+"active": "1",
+"mobile": "0428 469 015",
+"depotid": "8"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+118.21001,
+-31.727245
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "576",
+"owner": "Glenn & Julie Marsden",
+"name": "Dongara Bulk Depot",
+"address": "Lot 60 Bailey Street 6525",
+"shire": "Dongara",
+"postalcode": "6525",
+"county": "WA",
+"phone": "9927 1145",
+"fax": "0407 094 116",
+"min": "1",
+"max": "20",
+"type": "depot",
+"active": "1",
+"mobile": "0418 939 443",
+"depotid": "10"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+114.94739,
+-29.249945
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "669",
+"owner": "Gary & Josie Dimasi",
+"name": "Donnybrook Bulk Depot",
+"address": "3115 Silipo Rd, Donnybrook 6525",
+"shire": "Donnybrook",
+"postalcode": "",
+"county": "WA",
+"phone": "",
+"min": "1",
+"max": "20",
+"type": "depot",
+"active": "1",
+"mobile": "0411 718 182",
+"depotid": "15"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.7973,
+-33.6016
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "569",
+"owner": "Scott Liddelow",
+"name": "Esperance  Bulk Depot",
+"address": "1 Brazier St, Esperance WA 6450",
+"shire": "Esperance",
+"postalcode": "6450",
+"county": "WA",
+"phone": "",
+"fax": "",
+"min": "1",
+"max": "20",
+"type": "depot",
+"active": "1",
+"mobile": "0427 152 704",
+"depotid": "3"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+121.90058,
+-33.872917
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "571",
+"owner": "David Campbell",
+"name": "Jerramungup Bulk Depot",
+"address": "2 Bennett St, Jerramungup WA 6337",
+"shire": "Jerramungup",
+"postalcode": "6337",
+"county": "WA",
+"phone": "",
+"min": "1",
+"max": "20",
+"type": "depot",
+"active": "1",
+"mobile": "0429 119 761",
+"depotid": "5"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+118.919556,
+-33.94615
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "567",
+"owner": "Phil Guppy",
+"name": "Katanning Depot Bulk Depot",
+"address": "28520 Broomehill Road, Katanning WA ",
+"shire": "Katanning",
+"postalcode": "6317",
+"county": "WA",
+"min": "1",
+"max": "20",
+"type": "depot",
+"active": "1",
+"mobile": "0487 394 452",
+"depotid": "1"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.56096,
+-33.708115
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "573",
+"owner": "Peter & Shannon Waters",
+"name": "Kununoppin Bulk Depot",
+"address": "74 Thompson Road, Kununoppin WA 6489",
+"shire": "Kununoppin",
+"postalcode": "6489",
+"county": "WA",
+"phone": "9685 1233",
+"min": "1",
+"max": "20",
+"type": "depot",
+"active": "1",
+"mobile": "0428 832 055",
+"depotid": "7"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.91352,
+-31.104916
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "578",
+"owner": "Jack Semini & Troy Semini",
+"name": "Margaret River / Cowaramaup",
+"address": "1417 Treeton-Jindong Road, Margaret River WA 6284",
+"shire": "Treeton",
+"postalcode": "6284",
+"county": "WA",
+"phone": "9755 5360",
+"fax": "",
+"min": "1",
+"max": "20",
+"type": "depot",
+"active": "1",
+"mobile": "0429 867 948",
+"depotid": "12"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.21051,
+-33.87126
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "577",
+"owner": "Craig & Donna Tierney",
+"name": "Moora Bulk Depot",
+"address": "Lot 2 185 Clarke Street, Moora WA 6510",
+"shire": "Moora",
+"postalcode": "6510",
+"county": "WA",
+"min": "1",
+"max": "20",
+"type": "depot",
+"active": "1",
+"mobile": "0428 927 662",
+"depotid": "11"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.01253,
+-30.638351
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "572",
+"owner": "Dawson and Lisa Bradford",
+"name": "Narrogin",
+"address": "1547 Yornaning Road, Lol Gray WA 6311",
+"shire": "Cuballing",
+"postalcode": "6311",
+"county": "WA",
+"phone": "9351 1739",
+"min": "1",
+"max": "20",
+"type": "depot",
+"active": "1",
+"mobile": "08 9351 0739",
+"depotid": "6"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.15432,
+-32.853287
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "579",
+"owner": "Beverley Gangle",
+"name": "Pingaring Ag",
+"address": "Lot 3 Luke Price Street, Pingaring WA 6357",
+"shire": "Kulin",
+"postalcode": "6357",
+"county": "WA",
+"phone": "",
+"min": "1",
+"max": "20",
+"type": "depot",
+"active": "1",
+"mobile": "0427 478 625",
+"depotid": "13"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+118.6264,
+-32.75358
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "575",
+"owner": "Mitchell Collins",
+"name": "York Depot",
+"address": "Corner of Badgin Road and Goldfields Road",
+"shire": "York",
+"postalcode": "6302",
+"county": "WA",
+"phone": "9641 7010",
+"min": "1",
+"max": "20",
+"type": "depot",
+"active": "1",
+"mobile": "0407 427 842",
+"depotid": "9"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.76784,
+-31.853664
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "582",
+"owner": "",
+"name": "Albany Horseworld",
+"address": "138 Chester Pass Road, Albany 6330",
+"shire": "ALBANY",
+"postalcode": "6330",
+"county": "WA",
+"phone": "9842 9255",
+"fax": "9841 4133",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.8748,
+-34.99298
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "583",
+"owner": "",
+"name": "Albany Stockfeeds",
+"address": "496 Albany Highway, Albany 6330",
+"shire": "ALBANY",
+"postalcode": "6330",
+"county": "WA",
+"phone": "9841 5724",
+"fax": "9842 1504",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.8555,
+-34.99002
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "671",
+"owner": "",
+"name": "Alexander Galt Wagin",
+"address": "27 Tudhoe Street, Wagin 6315",
+"shire": "WAGIN",
+"postalcode": "6315",
+"county": "WA",
+"phone": "08 9861 1087",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.34305,
+-33.30893
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "677",
+"owner": "",
+"name": "Animal Health Solutions",
+"address": "22 Garnet Way, Maddington 6164",
+"shire": "Maddington",
+"postalcode": "6164",
+"county": "WA",
+"phone": "9452 3944",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.00069,
+-32.038025
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "585",
+"owner": "",
+"name": "Anketell Stockfeeds",
+"address": "779 Thomas Road, Anketell 6167",
+"shire": "ANKETELL",
+"postalcode": "6167",
+"county": "WA",
+"phone": "9419 5771",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.8559,
+-32.22761
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "587",
+"owner": "Mitch Collins & Wayne Collins",
+"name": "Avon Valley Stockfeed & Garden Supplies",
+"address": "7 Badgin Road, York WA 6302",
+"shire": "YORK",
+"postalcode": "6302",
+"county": "WA",
+"phone": "",
+"fax": "0417 099 589",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "0407 427 842",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.6884,
+-31.65049
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "672",
+"owner": "",
+"name": "Avon Valley Contractors",
+"address": "Lot 152 Old York Road, Northam 6401",
+"shire": "NORTHAM",
+"postalcode": "6401",
+"county": "WA",
+"phone": "08 9622 1037",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.68205,
+-31.64886
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "588",
+"owner": "",
+"name": "Bakers Hill Hardware",
+"address": "4633 Great Eastern Highway, Bakers Hill 6562",
+"shire": "BAKERS HILL",
+"postalcode": "6562",
+"county": "WA",
+"phone": "9574 1274",
+"fax": "9574 1007",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.4592,
+-31.74718
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "673",
+"owner": "",
+"name": "Barons Rural Supplies",
+"address": "995 Rahnie Road, Wooroloo 6558",
+"shire": "WOOROLOO",
+"postalcode": "6558",
+"county": "WA",
+"phone": "08 9573 1822",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.3246,
+-31.78434
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "674",
+"owner": "",
+"name": "Bindoon True Value Hardware",
+"address": "9 Binda Place, Bindoon 6502",
+"shire": "BINDOON",
+"postalcode": "6502",
+"county": "WA",
+"phone": "08 9576 1275",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.09541,
+-31.38519
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "594",
+"owner": "",
+"name": "Brigadoon Produce",
+"address": "1125 Great Northern Highway, Bakersvillle 6056",
+"shire": "BAKERSVILLE",
+"postalcode": "6056",
+"county": "WA",
+"phone": "9296 1575",
+"fax": "9296  4030",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.021510,
+-31.794420
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "676",
+"owner": "",
+"name": "BTW Rural Supplies",
+"address": "82 Austral Terrace, Katanning 6317",
+"shire": "KATANNING",
+"postalcode": "6317",
+"county": "WA",
+"phone": "08 9821 4844",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.555702,
+-33.686889
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "595",
+"owner": "",
+"name": "Budget Stockfeeds",
+"address": "95 Peters Way, Oakford 6121",
+"shire": "OAKFORD",
+"postalcode": "6121",
+"county": "WA",
+"phone": "9397 1659",
+"fax": "9397 1679",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.9347,
+-32.19116
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "677",
+"owner": "",
+"name": "Bullsbrook Produce",
+"address": "2395 Great Northern Highway, Bullsbrook 6084",
+"shire": "BULLSBROOK",
+"postalcode": "6084",
+"county": "WA",
+"phone": "08 9571 1591",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.03248,
+-31.68467
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "678",
+"owner": "",
+"name": "Busselton Agricultural Services",
+"address": "10 Bradman Street, Busselton 6280",
+"shire": "BUSSELTON",
+"postalcode": "6280",
+"county": "WA",
+"phone": "08 9754 4340",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.34636,
+-33.66853
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "597",
+"owner": "",
+"name": "Busselton Stockfeeds and Pet Supplies",
+"address": "31A Strelly Street, Busselton 6280",
+"shire": "BUSSELTON",
+"postalcode": "6280",
+"county": "WA",
+"phone": "9754 2434",
+"fax": "9754 2435",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.351,
+-33.65838
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "679",
+"owner": "",
+"name": "City Livestock",
+"address": "727A Gnangara Road, Gnangara 6065",
+"shire": "GNANGARA",
+"postalcode": "6280",
+"county": "WA",
+"phone": "08 9302 3027",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.89353,
+-31.79368
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "680",
+"owner": "",
+"name": "Coolup Stockfeed Supplies",
+"address": "7118 Southwest Highway, Coolup 6214",
+"shire": "COOLUP",
+"postalcode": "6214",
+"county": "WA",
+"phone": "08 9530 3158",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.88022,
+-32.74275
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "681",
+"owner": "",
+"name": "Cost Plus Kwinana",
+"address": "4 Chisham Ave, Kwinana 6167",
+"shire": "COOLUP",
+"postalcode": "6167",
+"county": "WA",
+"phone": "08 9523 2042",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.81396,
+-32.24589
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "608",
+"owner": "",
+"name": "Dardanup Rural",
+"address": "10 Charlotte Street, Dardanup 6236",
+"shire": "DARDANUP",
+"postalcode": "6236",
+"county": "WA",
+"phone": "9728 1011",
+"fax": "9728 1069",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.7544,
+-33.39851
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "682",
+"owner": "",
+"name": "Derby Merchandise",
+"address": "Lot 261 Loch Street, Derby 6728",
+"shire": "DERBY",
+"postalcode": "6728",
+"county": "WA",
+"phone": "08 9191 1808",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+123.6362,
+-17.30696
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "683",
+"owner": "",
+"name": "Donnybrook Farm Service",
+"address": "Donnybrook Farm Service, Donnybrook 6239",
+"shire": "DONNYBROOK",
+"postalcode": "6239",
+"county": "WA",
+"phone": "08 9731 1101",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.82329,
+-33.57097
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "684",
+"owner": "",
+"name": "Dunsborough Rural",
+"address": "16 Clark Street, Dunsborough 6281",
+"shire": "DUNSBOROUGH",
+"postalcode": "6281",
+"county": "WA",
+"phone": "08 9756 7899",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.10186,
+-33.61485
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "685",
+"owner": "",
+"name": "Elders Albany",
+"address": "189 Chester Pass Road, Albany 6330",
+"shire": "ALBANY",
+"postalcode": "6330",
+"county": "WA",
+"phone": "08 9842 7904",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.87578,
+-34.98839
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "700",
+"owner": "",
+"name": "Elders Bunbury",
+"address": "32 McCombe Road, Bunbury 6230",
+"shire": "Bunbury",
+"postalcode": "6230",
+"county": "WA",
+"phone": "08 9796 8400",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.675910,
+-33.359340
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "701",
+"owner": "",
+"name": "Elders Esperance",
+"address": "81 Norseman Road, Esperance 6450",
+"shire": "Esperance",
+"postalcode": "6450",
+"county": "WA",
+"phone": "08 9071 9909",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+121.896580,
+-33.831260
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "703",
+"owner": "",
+"name": "Elders Katanning",
+"address": "131 Clive Street, Katanning 6317",
+"shire": "Katanning",
+"postalcode": "6317",
+"county": "WA",
+"phone": "08 9821 3726",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.554130,
+-33.691240
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "704",
+"owner": "",
+"name": "Elders Kojonup",
+"address": "146 Albany Highway, Kojonup 6395",
+"shire": "Kojonup",
+"postalcode": "6395",
+"county": "WA",
+"phone": "08 9831 1088",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.159130,
+-33.836040
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "705",
+"owner": "",
+"name": "Elders Narrogin",
+"address": "41 Fairway Street, Narrogin 6312",
+"shire": "Narrogin",
+"postalcode": "6312",
+"county": "WA",
+"phone": "08 9881 9800",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.179800,
+-32.939720
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "706",
+"owner": "",
+"name": "Elders Wagin",
+"address": "115 Tudhoe Street, Wagin 6315",
+"shire": "NWagin",
+"postalcode": "6315",
+"county": "WA",
+"phone": "08 9861 1511",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.35194,
+-33.296637
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "612",
+"owner": "",
+"name": "Esperance Rural Supplies",
+"address": "57 Norseman Road, Esperance 6450",
+"shire": "ESPERANCE",
+"postalcode": "6450",
+"county": "WA",
+"phone": "08 9071 5166",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+121.89989,
+-33.83667
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "615",
+"owner": "",
+"name": "Farm & General",
+"address": "Lot 46 Norseman Road, Esperance 6450",
+"shire": "ESPERANCE",
+"postalcode": "6450",
+"county": "WA",
+"phone": "9072 0888",
+"fax": "9072 0777",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+121.8963,
+-33.84009
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "678",
+"owner": "",
+"name": "Feedman",
+"address": "70 Mills Road West, Martin 6110",
+"shire": "MARTIN",
+"postalcode": "6110",
+"county": "WA",
+"phone": "9398 2242",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.00329,
+-32.067444
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "666",
+"owner": "",
+"name": "Geraldton Stockfeeders and Pet Supplies",
+"address": "374 Eighth Street, Geraldton 6530",
+"shire": "GERALDTON",
+"postalcode": "6530",
+"county": "WA",
+"phone": "9921 8437",
+"fax": "9964  5437",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+114.6583,
+-28.76907
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "674",
+"owner": "",
+"name": "Gidge One Stop Store",
+"address": "2507 Toodyay Road, Gidgeannup 6083",
+"shire": "Gidgegannup",
+"postalcode": "6083",
+"county": "WA",
+"phone": "9594 3220",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.22772,
+-31.777351
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "619",
+"owner": "",
+"name": "Gidge Rural",
+"address": "1516 Toodyay Road, Gidgegannup 6083",
+"shire": "GIDGEGANNUP",
+"postalcode": "6083",
+"county": "WA",
+"phone": "9574 6277",
+"fax": "9574 6299",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.143616,
+-31.819248
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "620",
+"owner": "",
+"name": "Gidgegannup Produce & Saddlery",
+"address": "Shop 8 / 2086 Toodyay Road, Gidgegannup 6083",
+"shire": "GIDGEGANNUP",
+"postalcode": "6083",
+"county": "WA",
+"phone": "9574 6264",
+"fax": "9574 6264",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.1932,
+-31.79442
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "673",
+"owner": "",
+"name": "Gingin Stockfeeds",
+"address": "35 Gingin Brook Road, Gingin 6503",
+"shire": "GINGIN",
+"postalcode": "6503",
+"county": "WA",
+"phone": "9575 1640",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.8623,
+-31.333435
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "622",
+"owner": "",
+"name": "Glaschaff Stockfeeds",
+"address": "Unit 3/12 Keates Road, Armadale 6112",
+"postalcode": "0",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.012520,
+-32.171200
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "611",
+"owner": "",
+"name": "Goldfields Stockfeeds",
+"address": "128 Dugan Street, Kalgoorlie 6430",
+"shire": "KALGOORLIE",
+"postalcode": "6430",
+"county": "WA",
+"phone": "9021 7017",
+"fax": "9091 4266",
+"min": "4",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+121.4643,
+-30.75117
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "625",
+"owner": "",
+"name": "Gosnells Stockfeed",
+"address": "1990 Albany Highway, Gosnells 6110",
+"shire": "GOSNELLS",
+"postalcode": "6110",
+"county": "WA",
+"phone": "9459 2460",
+"fax": "9459 6892",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.0105,
+-32.08082
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "627",
+"owner": "",
+"name": "GSR Rural Services",
+"address": "42 Lowood Road, Mount Barker 6324",
+"shire": "MT. BARKER",
+"postalcode": "6324",
+"county": "WA",
+"phone": "9851 2222",
+"fax": "9851 1035",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.66309,
+-34.630825
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "675",
+"owner": "",
+"name": "Henley Brook Produce",
+"address": "127 John Street, Henley Brook 6055",
+"shire": "Henley Brook",
+"postalcode": "6055",
+"county": "WA",
+"phone": "9296 4183",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.98395,
+-31.800455
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "628",
+"owner": "",
+"name": "Herne Hill Stockfeeders",
+"address": "543 Campersic Road, Millendon 6056",
+"shire": "MILLENDON",
+"postalcode": "6056",
+"county": "WA",
+"phone": "9296 4965",
+"fax": "9296 0498",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.0421,
+-31.82129
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "707",
+"owner": "",
+"name": "Jandakot Stock & Pet Supplies",
+"address": "Unit 1/33 Hammond Road, Cockburn Central 6164",
+"shire": "COCKBURN CENTRAL",
+"postalcode": "6164",
+"county": "WA",
+"phone": "08 9414 88445",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.84088,
+-32.12304
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "708",
+"owner": "",
+"name": "Kalgoorlie Feed Barn",
+"address": "304 Hay Street, Kalgoorlie 6430",
+"shire": "KALGOORLIE",
+"postalcode": "6430",
+"county": "WA",
+"phone": "08 9021 1921",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+121.45923,
+-30.75708
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "709",
+"owner": "",
+"name": "Keysbrook Produce",
+"address": "4232 South Western Highway, North Dandalup 6207",
+"shire": "NORTH DANDALUP",
+"postalcode": "6207",
+"county": "WA",
+"phone": "0438 924 514",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.97078,
+-32.51933
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "632",
+"owner": "",
+"name": "Loff's Feed & Saddlery",
+"address": "72 Norseman Road, Esperance 6450",
+"shire": "ESPERANCE",
+"postalcode": "6450",
+"county": "WA",
+"phone": "9071 3674",
+"fax": "9071 3674",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.012520,
+-32.171200
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "710",
+"owner": "",
+"name": "Makit Katanning",
+"address": "10/12 Broome Street, Katanning 6317",
+"shire": "KATANNING",
+"postalcode": "6317",
+"county": "WA",
+"phone": "08 9821 2211",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.55644,
+-33.69364
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "634",
+"owner": "",
+"name": "Mandurah Stockfeeds",
+"address": "7 Rafferty Road, Mandurah 6210",
+"shire": "MANDURAH",
+"postalcode": "6210",
+"county": "WA",
+"phone": "9535 3754",
+"fax": "9535 3754",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.74531,
+-32.51771
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "635",
+"owner": "",
+"name": "Manjimup Stockfeeds",
+"address": "2 Pritchard Street, Manjumup 6258",
+"shire": "MANJIMUP",
+"postalcode": "6258",
+"county": "WA",
+"phone": "9771 1575",
+"fax": "9777 1250",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.1497,
+-34.2323
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "711",
+"owner": "",
+"name": "Midwest Stockfeeds",
+"address": "354 Hall Road, Waggrakine 6530",
+"shire": "Waggrakine",
+"postalcode": "6530",
+"county": "WA",
+"phone": "0498 660 377",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+114.63931,
+-28.68639
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "712",
+"owner": "",
+"name": "Mt Helena Hardware True Value",
+"address": "9 Mcvicar Place, Mt Helena 6082",
+"shire": "MT HELENA",
+"postalcode": "6530",
+"county": "WA",
+"phone": "08 9572 1023",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.20883,
+-31.87828
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "713",
+"owner": "",
+"name": "Muchea Irrigation & Rural",
+"address": "Lot 1 Brand Highway, Muchea 6501",
+"shire": "MT HELENA",
+"postalcode": "6530",
+"county": "WA",
+"phone": "08 9571 4011",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.95357,
+-31.52814
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "714",
+"owner": "",
+"name": "Narrogin Gasworx",
+"address": "24 Fairway St, Narrogin 6312",
+"shire": "MT HELENA",
+"postalcode": "6530",
+"county": "WA",
+"phone": "08 9883 1056",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.17932,
+-32.93747
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "715",
+"owner": "",
+"name": "Narrogin Valley Stockfeeds",
+"address": "175 Federal Street, Narrogin 6312",
+"shire": "MT HELENA",
+"postalcode": "6530",
+"county": "WA",
+"phone": "08 9881 6000",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.18043,
+-32.9436
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "640",
+"owner": "",
+"name": "Northam Feed & Hire",
+"address": "43 Old York Rd, Northam 6401",
+"shire": "NORTHAM",
+"postalcode": "6401",
+"county": "WA",
+"phone": "9622 3637",
+"fax": "9622 3637",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.6805,
+-31.64812
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "720",
+"owner": "",
+"name": "Nutrien Ag Solutions Broome",
+"address": "Lot 1 Archer Street, Broome 6725",
+"shire": "BROOME",
+"postalcode": "6725",
+"county": "WA",
+"phone": "08 9192 5722",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+122.20867,
+-17.98417
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "721",
+"owner": "",
+"name": "Nutrien Ag Solutions Carnamah",
+"address": "Lot 1 Macpherson Street, Carnamah 6517",
+"shire": "CARNAMAH",
+"postalcode": "6517",
+"county": "WA",
+"phone": "08 9951 1155",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.8848,
+-29.68853
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "722",
+"owner": "",
+"name": "Nutrien Ag Solutions Katanning",
+"address": "Lot 500-504 Daping Street, Katanning 6317",
+"shire": "KATANNING",
+"postalcode": "6317",
+"county": "WA",
+"phone": "08 9821 1877",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+117.56355,
+-33.69483
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "723",
+"owner": "",
+"name": "Nutrien Ag Solutions Margaret River",
+"address": "7 Auger Way East, Margaret River 6285",
+"shire": "MARGARET RIVER",
+"postalcode": "6285",
+"county": "WA",
+"phone": "08 9758 7677",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.07176,
+-33.96504
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "641",
+"owner": "",
+"name": "Oakford Stockfeed",
+"address": "965 Nicholson Rd, Oakford 6121",
+"shire": "OAKFORD",
+"postalcode": "6121",
+"county": "WA",
+"phone": "9397 0296",
+"fax": "9397 0726",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.9263,
+-32.19817
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "730",
+"owner": "",
+"name": "Oakford Stockfeeds Pinjarra",
+"address": "5713 S Western Highway, Pinjarra 6208",
+"shire": "PINJARRA",
+"postalcode": "6208",
+"county": "WA",
+"phone": "0437 527 598",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.88155,
+-32.62542
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "731",
+"owner": "",
+"name": "Petbarn Balcatta",
+"address": "102 Erindale Road, Balcatta 6021",
+"shire": "BALCATTA",
+"postalcode": "6021",
+"county": "WA",
+"phone": "08 9240 1188",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.80897,
+-31.8608
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "732",
+"owner": "",
+"name": "Petbarn Joondalup Honeybush",
+"address": "7 Honeybush Drive, Joondalup 6027",
+"shire": "JOONDALUP",
+"postalcode": "6027",
+"county": "WA",
+"phone": "08 6430 5425",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.77103,
+-31.76083
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "733",
+"owner": "",
+"name": "Petbarn O'Connor",
+"address": "Unit 3/ 378 South Street, O'Connor 6163",
+"shire": "O'CONNER",
+"postalcode": "6163",
+"county": "WA",
+"phone": "08 9314 3300",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.79514,
+-32.06322
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "734",
+"owner": "",
+"name": "Petbarn Rockingham",
+"address": "75A Dixon Road, Rockingham 6168",
+"shire": "ROCKINGHAM",
+"postalcode": "6168",
+"county": "WA",
+"phone": "08 9527 6005",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.7621,
+-32.27646
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "735",
+"owner": "",
+"name": "Petbarn Spearwood",
+"address": "Lot 5, 218 Rockingham Road, Spearwood 6163",
+"shire": "SPEARWOOD",
+"postalcode": "6163",
+"county": "WA",
+"phone": "08 9434 4333",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.78363,
+-32.09453
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "670",
+"owner": "",
+"name": "PETstock Bio-John",
+"address": "196 Abernerthy Road, Belmont 6104",
+"shire": "BELMONT",
+"postalcode": "6104",
+"county": "WA",
+"phone": "08 9479 1544",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.93011,
+-31.95801
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "736",
+"owner": "",
+"name": "PETstock Swan Valley",
+"address": "412 Great Northern Highway, Middle Swan 6057",
+"shire": "MIDDLE SWAN",
+"postalcode": "6057",
+"county": "WA",
+"phone": "08 9250 6682",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.01701,
+-31.85715
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "737",
+"owner": "",
+"name": "Pinjarra Traders",
+"address": "47 McLarty Road, Pinjarra 6208",
+"shire": "MIDDLE SWAN",
+"postalcode": "6208",
+"county": "WA",
+"phone": "08 9531 1294",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.87025,
+-32.63586
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "738",
+"owner": "",
+"name": "RM Smith & Sons",
+"address": "Lot 482 Goomalling Road, Northan 64501",
+"shire": "NORTHAN",
+"postalcode": "54501",
+"county": "WA",
+"phone": "08 9622 1864",
+"fax": "",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.67905,
+-31.63675
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "651",
+"owner": "",
+"name": "Serpentine Rural Supplies",
+"address": "171 Hall Road, Serpentine 6125",
+"shire": "SERPENTINE",
+"postalcode": "6205",
+"county": "WA",
+"phone": "9525 2342",
+"fax": "9525 2073",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.9756,
+-32.36179
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "739",
+"owner": "",
+"name": "SJ Rural Supplies",
+"address": "42 Paterson Street, Mundijong 6123",
+"shire": "MUNDIJONG",
+"postalcode": "6123",
+"county": "WA",
+"phone": "08 9525 8488",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.9861,
+-32.29343
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "741",
+"owner": "",
+"name": "Stanbee Stockfeeds",
+"address": "12 Husband Road, Barragup 6209",
+"shire": "BARRAGUP",
+"postalcode": "6209",
+"county": "WA",
+"phone": "08 9581 2390",
+"fax": "",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.77627,
+-32.54832
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "653",
+"owner": "",
+"name": "Stanbee Stockfeeds",
+"address": "8 Husband Rd, Barragup 6210",
+"shire": "BARRAGUP",
+"postalcode": "6210",
+"county": "WA",
+"phone": "9581 2390",
+"fax": "9581 4575",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.776,
+-32.54816
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "654",
+"owner": "",
+"name": "Stockfeed West",
+"address": "32 Runyon Road, Midvale 6056",
+"shire": "MIDVALE",
+"postalcode": "6056",
+"county": "WA",
+"phone": "9250 1964",
+"fax": "9250 1984",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.0365,
+-31.89539
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "676",
+"owner": "",
+"name": "Stockfeed West - Sawyers Valley",
+"address": "10605 Great Eastern Highway, Sawyers Valley 6074",
+"shire": "Sawyers Valley",
+"postalcode": "6074",
+"county": "WA",
+"phone": "9295 2354",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.19957,
+-31.90369
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "655",
+"owner": "",
+"name": "Stockyard Stock Supplies",
+"address": "89 Pass Road, Geraldton 6530",
+"shire": "GERALDTON",
+"postalcode": "6530",
+"county": "WA",
+"phone": "9921 3702",
+"fax": "9921 3754",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+114.6264,
+-28.7704
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "659",
+"owner": "",
+"name": "Tomeo's Service Stations",
+"address": "1287 Brookton Highway, Karragullen 6111",
+"postalcode": "0",
+"phone": "9397 5822",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.121710,
+-32.104910
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "660",
+"owner": "",
+"name": "Toodyay Hardware & Farm",
+"address": "119 Stirling Terrace, Toodyay 6566",
+"shire": "TOODYAY",
+"postalcode": "6566",
+"county": "WA",
+"phone": "9574 2970",
+"fax": "9574 4662",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+116.4668,
+-31.55071
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "663",
+"owner": "",
+"name": "Wanneroo Stockfeeders",
+"address": "64 Callaway Street, Wangara 6065",
+"shire": "WANGARA",
+"postalcode": "6065",
+"county": "WA",
+"phone": "9302 3844",
+"fax": "9302 3845",
+"min": "9",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.8373,
+-31.79121
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": "679",
+"owner": "",
+"name": "Wight & Emmett",
+"address": "73 Craigie Street, Davenport 6230",
+"shire": "DAVENPORT",
+"postalcode": "6230",
+"county": "WA",
+"phone": "9721 2104",
+"min": "1",
+"max": "10",
+"type": "store",
+"active": "1",
+"mobile": "",
+"depotid": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+115.665634,
+-33.35644
+]
+}
+}
+]
+}
